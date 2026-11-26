@@ -1,0 +1,6 @@
+{
+  "name": "cse134b-hw5-ssg-exercise",
+  "private": true,
+  "scripts": {"build": "eleventy", "start": "eleventy --serve"},
+  "devDependencies": {"@11ty/eleventy": "^3.1.2"}
+}
