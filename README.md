@@ -136,5 +136,3 @@ Form/
 The portfolio is deployed using Netlify.
 
 **Website:** https://unique-kashata-3013e6.netlify.app/
-
-The Eleventy exercise is included in the GitHub repository as a separate project and can be built and previewed locally.
